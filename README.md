@@ -7,7 +7,7 @@ This project uses Angular 4 version.  Below is the screen shot which shows How i
 ![client-region](https://user-images.githubusercontent.com/39117476/41032655-accf54da-69a1-11e8-8645-13d8d70e9b35.PNG)
 
 # How to use?
-First of all clone the project into your directory and then do npm install. 
+First of all clone the project into your directory and then do npm install. Once the installation done, run the app using ng serve --proxy-config proxy.config.json.
 
 # License
 MIT
