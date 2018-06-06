@@ -13,4 +13,4 @@ First of all clone the project into your directory and then do npm install. Once
 MIT
 
 # Author
-https://github.com/KAILASH08 
+Kailash Nirmal
